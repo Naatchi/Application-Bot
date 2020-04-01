@@ -1,0 +1,12 @@
+-----------------------
+Questions
+1 question
+2 question
+3 question
+------------------------------------
+please use the provided channel in the discord
+example of a channel: `YourName-application`
+Once you are finished with your application please use the command `ap!finish`
+to notify the approvers.
+Note: you will not be able to access this channel until a decision is made.
+--------------------------------------
